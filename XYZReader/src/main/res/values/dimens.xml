@@ -13,5 +13,6 @@
     <dimen name="item_detail_cardview_margin">8dp</dimen>
     <dimen name="item_detail_cardview_elevation">1dp</dimen>
     <dimen name="appbar_details_height">300dp</dimen>
+    <dimen name="detail_title_top_margin">40dp</dimen>
 
 </resources>
